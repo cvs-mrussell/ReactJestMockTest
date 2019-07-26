@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import UserService from '../../Services/UserService';
+import { UserService } from '../../Services/UserService';
 import IHomeState from './IHomeState';
 import IUser from '../../Interfaces/IUser';
 
